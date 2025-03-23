@@ -86,8 +86,3 @@ This project is licensed under the **MIT License**.
 We welcome contributions! Feel free to fork the repository and submit pull requests.
 """
 
-# Write the README.md file
-with open("README.md", "w") as file:
-    file.write(readme_content)
-
-print("README.md file has been created successfully!")
