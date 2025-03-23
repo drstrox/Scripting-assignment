@@ -1,6 +1,6 @@
-Project Report: https://docs.google.com/document/d/1xdMwPPyRkDcV5SyvZqXS-n47uUL3r7kBSdP79TY5oZ4/edit?tab=t.0
+##Project Report: https://docs.google.com/document/d/1xdMwPPyRkDcV5SyvZqXS-n47uUL3r7kBSdP79TY5oZ4/edit?tab=t.0
 
-Blocksmiths_2
+##CodeEater
 BitcoinScripting
 This project simulates Bitcoin transactions using both Legacy and SegWit (Segregated Witness) address formats. It demonstrates how to create, sign, and broadcast transactions between addresses, as well as how to validate scripts and handle UTXOs (Unspent Transaction Outputs).
 
